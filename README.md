@@ -21,9 +21,9 @@ Analyzes historical price data and uses machine learning models to forecast futu
 Sends real-time email alerts when a tracked product's price drops significantly or meets the user's defined threshold.
 
 ## Tech Stack
-Frontend: HTML, CSS, JavaScript
-Backend: Python, Flask
-Web Scraping: Selenium, BeautifulSoup
-Machine Learning: Scikit-learn (Logistic Regression for price prediction)
-Database: SQLite
-Email Notifications: SMTP
+*Frontend: HTML, CSS, JavaScript
+*Backend: Python, Flask
+*Web Scraping: Selenium, BeautifulSoup
+*Machine Learning: Scikit-learn (Logistic Regression for price prediction)
+*Database: SQLite
+*Email Notifications: SMTP
